@@ -1,2 +1,2 @@
 # WebdesigningProject
-web designing project
+Web designing project on topic Sweet shop website
